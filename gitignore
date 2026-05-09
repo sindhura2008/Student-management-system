@@ -1,0 +1,17 @@
+# Compiled binary
+sms
+sms.exe
+a.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Object files
+*.o
+*.obj
